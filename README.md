@@ -3,7 +3,6 @@ This repository provides code for single plane hand-eye calibration. To cite the
 S. Sharifzadeh, I. Biro, P. Kinnell, “Robust hand-eye calibration of 2D laser sensors using a single-plane calibration artefact”, 
 Robotics and Computer-Integrated Manufacturing, 61, 101823, 2020.
 
-
 The hand-eye calibration project include required files for a sample 3D reconstruction code. This code can be used for the data of one of the single plane circular patterns 
 published in the above paper. 
 
