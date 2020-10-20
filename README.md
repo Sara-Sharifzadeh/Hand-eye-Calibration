@@ -1,5 +1,5 @@
 # Hand-eye-Calibration
-This repository provides code for single plane hand-eye calibration. To cite the work, please use the following paper:
+This repository provides code for a sample 3D reconstruction using the output hand-eye calibration matrix of the single plane hand-eye calibration method published recently. To cite the work, please use the following paper:
 S. Sharifzadeh, I. Biro, P. Kinnell, “Robust hand-eye calibration of 2D laser sensors using a single-plane calibration artefact”, 
 Robotics and Computer-Integrated Manufacturing, 61, 101823, 2020.
 
